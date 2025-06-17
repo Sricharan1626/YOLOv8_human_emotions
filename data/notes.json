@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Anger"
+    },
+    {
+      "id": 1,
+      "name": "Contempt"
+    },
+    {
+      "id": 2,
+      "name": "Disgust"
+    },
+    {
+      "id": 3,
+      "name": "Fear"
+    },
+    {
+      "id": 4,
+      "name": "Happy"
+    },
+    {
+      "id": 5,
+      "name": "Neutral"
+    },
+    {
+      "id": 6,
+      "name": "Sad"
+    },
+    {
+      "id": 7,
+      "name": "Suprisedd"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

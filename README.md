@@ -20,23 +20,6 @@ To install all required packages, run:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-### Example `requirements.txt`
-
-Add the following lines in your `requirements.txt` file:
-
-```txt
-ultralytics==8.0.196
-opencv-python
-torch
-numpy
-matplotlib
-```
-
-Save this file as `requirements.txt` in your repo.
-
 ---
 
 ## Download the Trained Model
@@ -48,7 +31,7 @@ If it's not already in the repo, you can download it (replace the URL with your 
 wget https://github.com/Sricharan1626/YOLOv8_human_emotions/my_model/my_model.pt
 ```
 
-Or, if already present in the repo, you don’t need to download.
+Or, if already downloded the repo, you don’t need to download.
 
 ---
 
@@ -68,6 +51,12 @@ results.show()
 ```
 
 Replace `'your_image.jpg'` with the path to your image.
+
+---
+
+## Training Graphs
+
+All the graphs related to model training and evaluation can be found in the `my_model/train` directory.
 
 ---
 
